@@ -4,7 +4,7 @@
 
 [👉 **DEMO**](http://185.220.34.235:8080/)
 
-[👉 **Frontend**](https://github.com/kvvprof/daily-notes)
+[👉 **FRONTEND**](https://github.com/kvvprof/daily-notes)
 
 **Schema of database tables**
 
